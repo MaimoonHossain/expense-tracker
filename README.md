@@ -1,1 +1,1 @@
-This is an expense tracker that functions as a simple money tracker for users to monitor, maintain and stay on top of their budget and expenses. 
+Users can monitor, maintain, and keep on top of their budget and costs with the help of this expense tracker, which also serves as a straightforward money tracker.
